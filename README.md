@@ -1,6 +1,6 @@
-# number-bucket-predictor
+# Basic ML Example
 
-A super simple example of a pytorch convolutional neural network that predicts which bucket a number is in.
+A super simple example of a pytorch convolutional neural network that predicts an output number based on a set of input numbers
 
 
 # Start
